@@ -9,6 +9,10 @@ Welcome to the **Kaggle Playground Series 2025**! This competition provides an a
 Predict the probability that a client will subscribe to a bank term deposit.
 
 ---
+## DATA 
+```kaggle competitions download -c playground-series-s5e8```
+---
+
 
 ## 🧪 Evaluation Metric
 
